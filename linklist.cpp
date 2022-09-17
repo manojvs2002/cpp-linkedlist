@@ -8,7 +8,7 @@ class Linklist
     public:
         Linklist()
         {
-            ///node=NULL;
+            
         }
         
         ~Linklist()
